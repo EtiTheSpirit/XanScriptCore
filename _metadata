@@ -1,0 +1,8 @@
+{
+	"friendlyName" : "XanScriptCore",
+	"name" : "xanscriptcore",
+	"description" : "A collection of modules designed to simplify the process of making things work in mods.",
+	"author" : "Xan the Dragon",
+	"version" : "1.0",
+	"tags" : ""
+}
